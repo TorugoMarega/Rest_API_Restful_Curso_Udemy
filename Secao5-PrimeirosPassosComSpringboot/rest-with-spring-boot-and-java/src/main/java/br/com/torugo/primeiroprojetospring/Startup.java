@@ -8,7 +8,7 @@ public class Startup {
 
 	public static void main(String[] args) {
 		SpringApplication.run(Startup.class, args);
-		System.out.println("Hello World");
+		System.out.println("Api funcionando");
 	}
 
 }
