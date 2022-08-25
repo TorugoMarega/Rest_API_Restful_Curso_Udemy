@@ -46,4 +46,11 @@ public class PersonServices {
         repository.delete(entity);
     }
 
+/*   {
+            "firstName":"Victor",
+            "lastName":"Hugo",
+            "address":"Uberlândia",
+            "gender":"Male"
+    }
+    */
 }
